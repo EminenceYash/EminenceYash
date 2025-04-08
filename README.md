@@ -37,6 +37,8 @@ While you were reading this, I was learning how to bend systems to my will. (wel
 
 > ⚡ “Beginner” is a mindset. I prefer *perpetual alpha build.* (paranthesis represents my emotions don't read if you're looking professionality and I know I'm late to tell you this)
 
+<img src="https://raw.githubusercontent.com/EminenceYash/EminenceYash/main/Eminence%20Yash.png" alt="EminenceYash Banner" style="width:100%; border-radius: 12px;" />
+
 <!---
 EminenceYash/EminenceYash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. (IK git)
