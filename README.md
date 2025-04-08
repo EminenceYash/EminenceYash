@@ -25,7 +25,7 @@ I don’t just *learn* tech — I *interrogate* it. Break it. Rebuild it smarter
 The real stuff is loading — quietly, cleanly, and with intent.
 
 ### 📡 Signal Boost (Connect):
-• [Email](mailto:creating@agoodmail.com)  - Why wait check my bio for my socials. Discord @eminenceyash
+• [Email](mailto:creating@agoodmail.com)  - Why wait check my bio for my socials. Discord @eminence.yash
 (But really, grep my commits for who I am.)
 
 ---
