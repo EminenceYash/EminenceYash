@@ -1,6 +1,6 @@
 # 🧠 EminenceYash
 
-> “Those who are crazy enough to think they can hack the world, are the ones who will.”
+> “I'm already atomic.”
 
 Welcome to my digital command center.  
 I don’t just *learn* tech — I *interrogate* it. Break it. Rebuild it smarter.
