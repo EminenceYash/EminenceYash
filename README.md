@@ -31,7 +31,7 @@ The real stuff is loading — quietly, cleanly, and with intent.
 ---
 
 ### 🧠 Fun Fact:
-While you were reading this, I was learning how to bend systems to my will. (well I said too much but that what I really think)
+While you were reading this, I was learning how to bend systems to my will. (well I said too much but that what I'm really doin maybe)
 
 ---
 
