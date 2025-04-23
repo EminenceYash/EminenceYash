@@ -37,7 +37,8 @@ While you were reading this, I was learning how to bend systems to my will. (wel
 ---
 
 > ⚡ “Beginner” is a mindset. I prefer *perpetual alpha build.* (paranthesis represents my emotions don't read if you're looking professionality and I know I'm late to tell you this)
-> Here's my previous profile (it contains my school based projects/ forks or the popular projects and integration to githubsites.
+
+- Here's my previous profile (it contains my school based projects/ forks or the popular projects and integration to githubsites.
 If anyone's intrested then please go check out these yourself - https://github.com/YASHISOG (well I have started new in 2025 cuz why not and this will be removed if my contributions reaches over 300)
 <img src="https://raw.githubusercontent.com/EminenceYash/EminenceYash/main/Eminence%20yash.png" alt="EminenceYash Banner" style="width:100%; border-radius: 12px;" />
 
