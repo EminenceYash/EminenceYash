@@ -26,7 +26,7 @@ The real stuff is loading — quietly, cleanly, and with intent.
 
 ### 📡 Signal Boost (Connect):
 • [Email](mailto:creating@agoodmail.com)  - Why wait check my bio for my socials. Discord @eminence.yash
-- [Coffee](www.bit.ly/yash22upon7) - I'm so tired need immediate caffiene
+- [Coffee](https://www.bit.ly/yash22upon7) - I'm so tired need immediate caffiene
 (But really, grep my commits for who I am.)
 
 ---
