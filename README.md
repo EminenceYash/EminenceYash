@@ -40,7 +40,7 @@ While you were reading this, I was learning how to bend systems to my will. (wel
 
 - Here's my previous profile (it contains my school based projects/ forks or the popular projects and integration to GitHub sites.
 If anyone's interested then please go check out these yourself - [YASH](https://github.com/YASHISOG) (well I have started new in 2025 cuz why not and this will be removed if my contributions reaches over 300)
-<img src="https://raw.githubusercontent.com/EminenceYash/EminenceYash/main/Eminence%20yash.png" alt="EminenceYash Banner" style="width:100%; border-radius: 12px;" />
+<img src="https://raw.githubusercontent.com/EminenceYash/EminenceYash/main/eminenceyashcrp.png" alt="EminenceYash Banner" style="width:100%; border-radius: 12px;" />
 
 <!---
 EminenceYash/EminenceYash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
